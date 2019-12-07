@@ -1,10 +1,10 @@
 Metadata-Version: 2.1
 Name: regression-model
-Version: 0.1.0
+Version: 1.0.0
 Summary: Train and deploy regression model.
-Home-page: your github project
-Author: Your name
-Author-email: your_email@email.com
+Home-page: https://github.com/codingnest/machine_learning_model_deployment
+Author: Coding Nest
+Author-email: codingnest01@gmail.com
 License: MIT
 Description: Train and deploy regression model.
 Platform: UNKNOWN
